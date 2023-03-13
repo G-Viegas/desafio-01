@@ -1,3 +1,3 @@
 # Desafio-01
  - 
-![Preview](./.github/Preview.png)
+![Preview](./.github/preview.png)
